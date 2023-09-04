@@ -1,0 +1,1 @@
+(this["webpackJsonpbabydoge-frontend"]=this["webpackJsonpbabydoge-frontend"]||[]).push([[64],{1295:function(n,o){}}]);
