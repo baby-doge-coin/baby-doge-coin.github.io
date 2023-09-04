@@ -632,7 +632,7 @@ body img{height:auto;max-width:100%;}
 .ecBJuq{border-radius:11px;color:white;font-size:12px;font-weight:700;min-width:125px;}
 .dXrfSN{background:white;color:black;}
 .bpBZBx{background:transparent;border:2px solid rgb(0, 143, 239);color:rgb(0, 143, 239);}
-.fdQwZQ{background:url("https://babydogeswap.com/images/fcf/bg-mobile.png") center bottom / cover no-repeat;height:calc(100vh - 115px);max-height:calc(100vh - 65px);position:relative;}
+.fdQwZQ{max-height:calc(100vh - 65px);position:relative;}
 .chllZd{text-align:center;font-size:2.5rem;width:80%;margin-right:auto;margin-left:auto;}
 @media screen and (min-width: 576px){
 .chllZd{margin-right:unset;margin-left:unset;width:unset;}
